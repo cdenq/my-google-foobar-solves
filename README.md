@@ -24,8 +24,7 @@ zz = if a file has this in its name, then it's a duplicate puzzle that was renam
 
 filename = the puzzle's name
 
-*If the file has a 'x' here instead of a number, it means it was a Google Foobar challnege that I found online. The solutions for these '.x' challenges are unverified.
+*If the file has a 'x' here instead of a number, it means it was a Google Foobar challenge that I found online. The solutions for these '.x' challenges are unverified by Google Foobar, though I checked them against online solutions after I had solved it myself.
 
 ## Built with
-- Visual Studio Basic (VSB)
 - Python
