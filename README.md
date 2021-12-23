@@ -2,12 +2,12 @@
 
 ## About My Google Foobar
 
-`My Google Foobar' is a collection of code submissions to and notes detailing my thought processes about the Google Foobar Challenge. I tried my best to capture my brainstorming, strategies, and both failed and successful attempts in the .ipynb files as they were happening in real-time.
+`My Google Foobar' is a collection of code submissions to and notes detailing my thought processes about the Google Foobar Challenge.
 
-I ONLY USED NATIVE PYTHON. I think used pre-built libraries to solve coding puzzles is unfun. :)
+I tried my best to capture my brainstorming, strategies, and both failed and successful attempts in the .ipynb files as they were happening in real-time. **Only native Python is used.**
 
 ## Gotta Collect Them All!
-I enjoyed all the riddles quite a bit, which prompted me to find more riddles like it. As it turns out, Google Foobar has a a whole pool of puzzles that get randomly assigned to each challenger. I decided to attempt the puzzles that I didn't get assigned to as well, and include them in this repo.
+As it turns out, Google Foobar has a whole pool of puzzles that get randomly assigned to each challenger. I decided to also attempt the puzzles that I didn't get assigned to and include them in this repo.
 
 To my knowledge, this is a comprehensive list of every Google Foobar challenge related to the bunny story arc.
 
