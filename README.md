@@ -2,7 +2,7 @@
 
 ## About My Google Foobar
 
-`My Google Foobar' is a collection of code submissions to and notes detailing my thought processes about the Google Foobar Challenge.
+`My Google Foobar` is a collection of code submissions to and notes detailing my thought processes about the Google Foobar Challenge.
 
 I tried my best to capture my brainstorming, strategies, and both failed and successful attempts in the .ipynb files as they were happening in real-time. **Only native Python is used.**
 
